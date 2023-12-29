@@ -1,3 +1,11 @@
+<?php
+/*
+Plugin Name: RJ-Contact Plugin 
+Description: Enhance your website with one click contact form plugin free forever 
+Version: 1.3.0
+Author: Ravi Jakhar
+Author URI: https://bit.ly/Ravi-Jakhar-7
+*/
 // Include additional files
  include_once(plugin_dir_path(__FILE__) . 'rj-set.php');
 include_once(plugin_dir_path(__FILE__) . 'rj-form.php');
