@@ -23,7 +23,7 @@ RJ-Contact is a versatile, free WordPress plugin empowering users to effortlessl
 
 == Frequently Asked Questions ==
 = How do I add a contact form to my page or post?
-To add a contact form, simply use the shortcode `[rj_contact_form]` in the content area of your page or post.
+To add a contact form, simply use the shortcode `[ravi_contact_form]` in the content area of your page or post.
 
 = Can I customize the appearance of the contact form?
 Yes, you can customize the form's appearance using the RJ-Style settings. Adjust the CSS code to suit your design preferences.
