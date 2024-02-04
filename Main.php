@@ -1,9 +1,17 @@
 <?php
+<?php
 /*
-Plugin Name: ravi Contact
-Description: Add a contact form to your site.
+Plugin Name: RJ Contact Form
+Description: A free WordPress plugin that allows you to seamlessly add customizable contact forms to your website without watermark.
 Version: 1.0
-Author: Ravi
+Author: Ravi Jakhar
+Author URI:https://www.linkedin.com/in/ravi-jat
+Plugin URI:https://bit.ly/Ravi-Jakhar-7
+License URI:https://www.gnu.org/licenses/gpl-2.0.html
+Requires at least: 5.2
+Text Domain:rj-contact-form
+Icon: /assets/icon.png
+Banner: /assets/banner.png
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
