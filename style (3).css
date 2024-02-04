@@ -1,0 +1,53 @@
+#ravi-contact-form {
+	align-items:center;
+	background: linear-gradient(to right, #66ccff, #ff99cc);
+    max-width: 320px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+#ravi-contact-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: black; margin:2px 3%; 
+}
+
+#ravi-contact-form #input  {
+    width: 90%;
+Outline:none;
+Background: bottom;
+    height:35px;
+    padding:5%;
+    margin-bottom: 16px;
+ border:1px solid gray;
+ margin:0px 3%; 
+     transition: border 3s, color 3s;
+}
+#ravi-contact-form #input:hover {
+		border:none;
+		border-bottom:2px solid red;
+		outline:none;
+		}
+
+
+#ravi-contact-form #btn{
+    background-color: #000;
+    color:white; /* Set the text color to black */
+    padding: 10px 20px;
+Margin-top:20px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 80%;
+    transition: background-color 2s, color 3s;
+}
+
+#ravi-contact-form #btn:hover {
+    background-color: #fff;
+    color: #000; /* Set the text color to white on hover */
+}
