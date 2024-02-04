@@ -91,4 +91,3 @@ function delete_entry() {
     }
 }
 
-?>
