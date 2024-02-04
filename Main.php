@@ -9,7 +9,7 @@ Author URI:https://www.linkedin.com/in/ravi-jat
 Plugin URI:https://bit.ly/Ravi-Jakhar-7
 License:GPL v2 or later
 License URI:https://www.gnu.org/licenses/gpl-2.0.html
-Requires at least: 5.2
+Requires at least: 5.9
 Requires PHP:7.2
 Text Domain:rj-contact-form
 Icon: /assets/icon.png
