@@ -36,4 +36,4 @@ function ravi_style_settings_page() {
     </div>
     <?php
 }
-?>
+
