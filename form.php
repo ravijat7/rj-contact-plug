@@ -1,6 +1,6 @@
 <?php
 /*
-File Name: ravi-form.php
+File Name: form.php
 Description: Create a contact form and handle form submission.
 */
 
